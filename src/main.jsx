@@ -3,8 +3,8 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Paginaum from './paginaum.jsx'
-import Paginadois from './paginadois.jsx'
+import Paginaum from './Paginaum'
+import Paginadois from './Paginadois'
 
 const router = createBrowserRouter([
  { 
